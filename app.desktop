@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Flash
+Exec=qmlscene $@ Main.qml
+Icon=Flash.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-07-26 20:39+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: components/NewSetDialog.qml:9
+msgid "New Set"
+msgstr ""
+
+#: components/NewSetDialog.qml:15
+msgid "name the new set"
+msgstr ""
+
+#: components/NewSetDialog.qml:22 components/EditDialog.qml:51
+#: components/NewCardDialog.qml:49 components/RenameDialog.qml:27
+msgid "Ok"
+msgstr ""
+
+#: components/NewSetDialog.qml:32 components/DeleteDialog.qml:31
+#: components/EditDialog.qml:60 components/NewCardDialog.qml:58
+#: components/RenameDialog.qml:37
+msgid "Cancel"
+msgstr ""
+
+#: components/DeleteDialog.qml:10
+msgid "Confirm Delete"
+msgstr ""
+
+#: components/DeleteDialog.qml:23
+msgid "Delete"
+msgstr ""
+
+#: components/CardsReviewPage.qml:17
+msgid "Run"
+msgstr ""
+
+#: components/CardsReviewPage.qml:31
+msgid "Add Card"
+msgstr ""
+
+#: components/CardsReviewPage.qml:41
+msgid "Rename Set"
+msgstr ""
+
+#: components/CardsReviewPage.qml:84
+msgid "Do you really want to permamently and irrevocably delete this card?"
+msgstr ""
+
+#: components/CardsReviewPage.qml:158
+msgid "Stats"
+msgstr ""
+
+#: components/CardsReviewPage.qml:164
+msgid "Streak: "
+msgstr ""
+
+#: components/CardsReviewPage.qml:173
+msgid "Trials: "
+msgstr ""
+
+#: components/CardsReviewPage.qml:181
+msgid "Rate: "
+msgstr ""
+
+#: components/CardsReviewPage.qml:190
+msgid "Seen: Never"
+msgstr ""
+
+#: components/CardsReviewPage.qml:193
+msgid "Seen: Today"
+msgstr ""
+
+#: components/CardsReviewPage.qml:196
+msgid "Seen: Yesterday"
+msgstr ""
+
+#: components/CardsReviewPage.qml:199
+msgid "Seen: "
+msgstr ""
+
+#: components/CardsReviewPage.qml:199 components/CardsListPage.qml:110
+msgid " days"
+msgstr ""
+
+#: components/NewCardDialog.qml:10
+msgid "New Card"
+msgstr ""
+
+#: components/NewCardDialog.qml:27
+msgid "Front"
+msgstr ""
+
+#: components/NewCardDialog.qml:39
+msgid "Back"
+msgstr ""
+
+#: components/RunDialog.qml:35
+msgid "Learn"
+msgstr ""
+
+#: components/RunDialog.qml:45
+msgid ""
+"Good job! You don't have any cards that you need to practice in this set."
+msgstr ""
+
+#: components/RunDialog.qml:49
+msgid "Practice anyway"
+msgstr ""
+
+#: components/RunDialog.qml:141
+msgid "Incorrect"
+msgstr ""
+
+#: components/RunDialog.qml:148
+msgid "Correct"
+msgstr ""
+
+#: components/RunDialog.qml:159
+msgid "Close"
+msgstr ""
+
+#: components/CardsListPage.qml:13
+msgid "Card Sets"
+msgstr ""
+
+#: components/CardsListPage.qml:16
+msgid "Add New"
+msgstr ""
+
+#: components/CardsListPage.qml:25
+msgid "Import"
+msgstr ""
+
+#: components/CardsListPage.qml:34
+msgid "Help"
+msgstr ""
+
+#: components/CardsListPage.qml:36
+msgid "https://wiki.ubuntu.com/RickSpencer/Flash"
+msgstr ""
+
+#: components/CardsListPage.qml:69
+msgid ""
+"Do you really want to permamently and irrevocably delete the entire set of "
+"cards?"
+msgstr ""
+
+#: components/CardsListPage.qml:101
+msgid "Never"
+msgstr ""
+
+#: components/CardsListPage.qml:104
+msgid "Today"
+msgstr ""
+
+#: components/CardsListPage.qml:107
+msgid "Yesterday"
+msgstr ""
+
+#: components/RenameDialog.qml:16
+msgid "Rename "
+msgstr ""
+
+#: components/RenameDialog.qml:20
+msgid "new name"
+msgstr ""
